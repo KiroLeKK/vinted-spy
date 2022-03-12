@@ -1,0 +1,10 @@
+{
+    "token": "process.end.TOKEN",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&size_id[]=209&brand_id[]=53&currency=EUR&price_to=25&catalog[]=1811&catalog[]=267": {
+            "channel": 952188760303472641
+        }
+    }
+}
